@@ -1,3 +1,5 @@
+Option Explicit
+
 Sub readCSV()
 　　Dim csvFileName As Variant
 　　Dim freeNum As Integer
